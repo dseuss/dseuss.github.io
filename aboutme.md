@@ -16,6 +16,4 @@ I use this site to maintain a somewhat up-to-date overview over my academic work
 - **2014** Visiting researcher in the group of H. Wiseman @ Griffith University, Brisbane. Supported by Leonardo Scholarship.
 - **2008 -- 2013** Diploma in Theoretical Physics in the [group of W. Strunz](https://tu-dresden.de/die_tu_dresden/fakultaeten/fakultaet_mathematik_und_naturwissenschaften/fachrichtung_physik/itp/tp/mitglieder_dir/gruppe_html) @ Dresden Technical University. Thesis: _Hierarchy of Quantum Trajectories applied to Photosynthetic Complexes_ [[pdf]](https://github.com/dseuss/diploma-thesis/raw/master/thesis.pdf) [[git]](https://github.com/dseuss/diploma-thesis)
 
-
-
-
+If that's not enough, [here](../files/cv.pdf) is a more complete CV.
