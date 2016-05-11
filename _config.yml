@@ -27,7 +27,6 @@ avatar: "/img/avatar-icon.png"
 
 # List of links in the navigation bar
 navbar-links:
-  Home: ""
   About Me: "aboutme"
 
 # --- Footer options --- #
@@ -80,6 +79,7 @@ defaults:
       path: ""
       type: "posts"
     values:
+      layout: "post"
       comments: true  # add comments to all blog posts
   -
     scope:
