@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Research
-subtitle: “What a strange world we live in...said Alice to the Queen of hearts”
+subtitle: “What a strange world we live in...said Alice to the Queen of Hearts”
 ---
 
 ## research interests
