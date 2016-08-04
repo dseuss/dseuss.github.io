@@ -1,15 +1,11 @@
-# --- Serving options --- #
+# --- General options --- #
 
 # url is the full website URL
 # baseurl is the website's URL without the hostname
 
 # If you are building a simple GitHub user page (username.github.io) then use these settings:
-url: "http://www.dsuess.me"
+urndel: "http://www.dsuess.me"
 baseurl: "http://www.dsuess.me"
-
-# If you are building a GitHub project page then use these settings:
-#url: "http://username.github.io/projectname"
-#baseurl: "/projectname"
 
 # Of course don't forget to change the username and projectname to YOUR username and project
 
@@ -51,6 +47,7 @@ footer-links-active:
   github: true
   linkedin: false
   stackoverflow: false
+  instagram: false
 
 # How to display the link to the website in the footer
 # Remove this if you don't want a link in the footer
@@ -73,6 +70,9 @@ highlighter: rouge
 permalink: /:year-:month-:day-:title/
 paginate: 5
 
+kramdown:
+  input: GFM
+
 # Default YAML values (more information on Jekyll's site)
 defaults:
   -
@@ -86,7 +86,11 @@ defaults:
     scope:
       path: "" # all files
     values:
-      layout: "default"
+      layout: "page"
+      show-avatar: true
+
+# Use tags pages (not recommended if you are deploying via GitHub pages, only set to true if deploying locally with ruby)
+link-tags: false
 
 # Exclude these files from production site
 exclude:
@@ -96,11 +100,7 @@ exclude:
   - README.md
   - CNAME
   - Vagrantfile
-gems: [jekyll-paginate]
 
-
-paginate: 5
-paginate_path: "/posts/page:num/"
 
 # prose.io config
 prose:
@@ -146,3 +146,7 @@ prose:
           element: "checkbox"
           label: "Publish"
           help: "Check to publish post, uncheck to hide."
+gems:
+  - jekyll-paginate
+paginate: 5
+paginate_path: "/posts/page:num/"
