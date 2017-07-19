@@ -12,7 +12,6 @@ Some questions I am trying to answer currently include
 - What constitutes a “good” error region for quantum state estimation? Are there computational limits on how we can incorporate prior information to improve an error region?
 - How can we circumvent the “curse of dimensionality” in quantum state estimation by exploiting prior information on the physical system?
 
-
 Furthermore, I am a strong proponent of open science.
 This is why you can find most of my work on [github](https://github.com/dseuss).
 There, you can also find [slides and posters](https://github.com/dseuss/presentations) of previous presentations.
