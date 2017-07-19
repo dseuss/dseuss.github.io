@@ -24,7 +24,7 @@ avatar: "/img/bluepeople.jpg"
 # List of links in the navigation bar
 navbar-links:
   Research: "research"
-  Posts: "posts/index"
+  # Posts: "posts/index"
 
 # If you want to have an image logo in the top-left corner instead of the title text,
 # then specify the following parameter
