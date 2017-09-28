@@ -40,7 +40,7 @@ author:
   github: dseuss    # eg. daattali
   #twitter: yourname   # eg. daattali
   linkedin: daniel-suess
-  #stackoverflow: yourlink  # eg. "3943160/daattali"
+  stackoverflow: 4737971/dseuss
   scirate: daniel-suess
 
 # Select which links to show in the footer
@@ -51,7 +51,7 @@ footer-links-active:
   twitter: false
   github: true
   linkedin: true
-  stackoverflow: false
+  stackoverflow: true
   instagram: false
   scirate: true
 
