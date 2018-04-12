@@ -10,7 +10,8 @@ I use this site to maintain a somewhat up-to-date overview over my academic work
 
 ## my history
 
-- **2015 -- Present** Doctoral Candidate (continuation) in the [group of D. Gross](http://www.thp.uni-koeln.de/gross/) @ University of Cologne.
+- **2018 -- Present** Data Scientist @ [Silverpond](http://silverpond.com.au)
+- **2015 -- 2018** Doctoral Candidate (continuation) in the [group of D. Gross](http://www.thp.uni-koeln.de/gross/) @ University of Cologne.
 - **2017** Visiting researcher in the [group of S. Flammia and S. Bartlett](http://sydney.edu.au/science/physics/research/quantum/) @ University of Sydney
 - **2014 -- 2015** Doctoral Candidate in the [group of D. Gross](https://www.qc.uni-freiburg.de) @ University of Freiburg.
 - **2014** Researcher in the [group of A. Eisfeld](http://www.pks.mpg.de/~eisfeld/) @ MPIPKS Dresden.
